@@ -1,0 +1,21 @@
+{
+  "name": "smooshing",
+  "version": "1.0.0",
+  "description": "My luminous Nuxt.js project",
+  "author": "Shane McGrath",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "node-sass": "^4.12.0",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
